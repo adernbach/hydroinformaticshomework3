@@ -1,0 +1,18 @@
+name: torch310env
+channels:
+  - conda-forge
+dependencies:
+  - python=3.10
+  - pytorch
+  - torchvision
+  - torchaudio
+  - cpuonly
+  - ca-certificates
+  - openssl
+  - ipykernel
+  - certifi
+  - pandas
+  - matplotlib
+  - scikit-learn
+  - conda
+  - pytorch-cuda=12.1
