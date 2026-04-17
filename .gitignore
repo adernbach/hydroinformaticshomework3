@@ -28,6 +28,8 @@ MANIFEST
 .conda/
 files/SNOTEL/
 files/spatial/
+gitignore/
+cache/
 
 # PyInstaller
 #  Usually these files are written by a python script from a template
